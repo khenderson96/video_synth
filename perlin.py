@@ -21,6 +21,9 @@ class PerlinNoise():
 
         self.mem_x = dict()
 
+    # def update(self, frequency, amplitude, octaves, interp);
+
+
 
     def __noise(self, x):
         # made for improve performance
